@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'widget_tweaks',
     'allauth.socialaccount.providers.google',
+    'cms',
 
     'wagtail.contrib.forms',
     'wagtail.contrib.redirects',
